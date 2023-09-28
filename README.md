@@ -51,7 +51,7 @@ sudo systemctl enable --now handycon
 ### From Source
 
 ```
-git clone https://github.com/ShadowBlip/HandyGCCS.git
+git clone https://github.com/kzkzkzkzkzk/HandyGCCS.git
 cd HandyGCCS
 sudo ./build
 sudo systemctl enable --now handycon
